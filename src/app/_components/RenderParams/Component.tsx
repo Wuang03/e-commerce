@@ -26,7 +26,7 @@ export const RenderParamsComponent: React.FC<Props> = ({
     if (paramValues.length && onParams) {
       onParams(paramValues)
     }
-  }, [paramValues, onParams])
+  }, [searchParams, onParams]) // Use searchParams here to avoid potential infinite loops
 
   if (paramValues.length) {
     return (
@@ -37,7 +37,7 @@ export const RenderParamsComponent: React.FC<Props> = ({
           return (
             <Message
               className={classes.renderParams}
-              key={paramValue}
+              key={`${params[index]}-${paramValue}`} // Ensure unique key
               {...{
                 [params[index]]: paramValue,
               }}
