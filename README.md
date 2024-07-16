@@ -1,3 +1,17 @@
+![ảnh 9](https://github.com/user-attachments/assets/316d3129-6413-4eee-91a0-bd741d0f4854)
+![ảnh 10](https://github.com/user-attachments/assets/4d8292a6-0c50-4946-90da-ab0a3d381489)
+![ảnh 11](https://github.com/user-attachments/assets/f2a5f83a-b3d0-421a-94a7-dab83e7f2b4c)
+![anh1](https://github.com/user-attachments/assets/2efba1f1-37db-4093-a417-92ff76db8916)
+![anh2](https://github.com/user-attachments/assets/20b39b56-a748-42b3-9d3f-8a0c330997cf)
+![anh3](https://github.com/user-attachments/assets/d6b8cf07-a3b8-46cb-b36e-1a4a431f4a41)
+![ảnh 4](https://github.com/user-attachments/assets/e0ef1241-6757-4e7c-a581-bfe564c64c65)
+![ảnh 5](https://github.com/user-attachments/assets/b0f3844d-5d4b-4042-97fa-eb27458f7843)
+![ảnh 6](https://github.com/user-attachments/assets/858d2934-270c-4b7d-a968-8cb68e62a199)
+![ảnh 7](https://github.com/user-attachments/assets/923bfcc8-ef30-4dff-bcd7-2295bc7d20c3)
+![ảnh 8](https://github.com/user-attachments/assets/f8b68283-f804-40e6-b998-bbc8c7e222a9)
+
+
+
 # Payload E-Commerce Template
 
 This is the official [Payload E-Commerce Template](https://github.com/payloadcms/payload/blob/main/templates/ecommerce). Use it to power e-commerce businesses and online stores of all sizes. This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready website.
