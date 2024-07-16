@@ -9,6 +9,7 @@
 ![ảnh 6](https://github.com/user-attachments/assets/858d2934-270c-4b7d-a968-8cb68e62a199)
 ![ảnh 7](https://github.com/user-attachments/assets/923bfcc8-ef30-4dff-bcd7-2295bc7d20c3)
 ![ảnh 8](https://github.com/user-attachments/assets/f8b68283-f804-40e6-b998-bbc8c7e222a9)
+![ảnh 11](https://github.com/user-attachments/assets/47fb40e5-d74e-40d6-a3f7-6c85cfb0f8fe)
 
 
 
